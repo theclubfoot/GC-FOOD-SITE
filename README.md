@@ -1,6 +1,6 @@
-# Burger Express 🍔
+# Golden Crust Burgers 🍔
 
-Welcome to Burger Express, your go-to destination for delicious burgers delivered right to your doorstep! This web application is designed to provide a seamless ordering experience, allowing customers to customize and order their favorite burgers with just a few clicks.
+Welcome to Golden Crust Burgers, your go-to destination for delicious burgers delivered right to your doorstep! This web application is designed to provide a seamless ordering experience, allowing customers to customize and order their favorite burgers with just a few clicks.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ Welcome to Burger Express, your go-to destination for delicious burgers delivere
 
 ## Introduction
 
-Burger Express is a web-based platform that simplifies the burger ordering process. Whether you're craving a classic cheeseburger or want to experiment with unique toppings, our platform has got you covered. Lawrence Adams and Blessing Tetteh Lartey have collaborated to bring this project to life, ensuring a user-friendly and efficient experience for burger enthusiasts.
+GC-FOOD-SITE is a web-based platform that simplifies the burger ordering process. Whether you're craving a classic cheeseburger or want to experiment with unique toppings, our platform has got you covered. Lawrence Adams and Blessing Tetteh Lartey have collaborated to bring this project to life, ensuring a user-friendly and efficient experience for burger enthusiasts.
 
 ## Features
 
@@ -22,7 +22,7 @@ Burger Express is a web-based platform that simplifies the burger ordering proce
 - **User Accounts:** Create an account to save your favorite burger combinations and track your order history.
 - **Secure Transactions:** Enjoy peace of mind with secure and encrypted online transactions.
 - **Order Tracking:** Keep tabs on your order with real-time tracking, so you know exactly when your delicious burger will arrive.
-- **Responsive Design:** Access Burger Express from any device – desktop, tablet, or mobile – for a consistent and enjoyable experience.
+- **Responsive Design:** Access Golden Crust Burgers from any device – desktop, tablet, or mobile – for a consistent and enjoyable experience.
 
 ## Collaborators
 
